@@ -2,4 +2,4 @@ CONTENT PLANS
 - Laravel CRUD 
 - Insert Data in Laravel 
 - Garbage Detection System Coding + Setup
-
+- Technical Interview Tips
