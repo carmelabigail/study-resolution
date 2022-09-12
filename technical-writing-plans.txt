@@ -4,3 +4,4 @@ CONTENT PLANS
 - Insert Data in Laravel 
 - Garbage Detection System Coding + Setup
 * Emphasize Arduino
+- Technical Interview Tips
