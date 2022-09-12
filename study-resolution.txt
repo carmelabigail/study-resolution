@@ -2,5 +2,5 @@ Study resolutions
 - consistently studying prog 
 - consistent to earn a Grow with Google cert 
 - earn a Cloud Computing cert 
-- focus learning Arduino 
-- finish a full working system 
+- finish a full working system
+- Arduino prog
