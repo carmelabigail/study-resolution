@@ -1,3 +1,4 @@
 CONTENT PLANS 
 - Laravel CRUD 
+- Insert Data in Laravel 
 - Detection System Coding + Setup
