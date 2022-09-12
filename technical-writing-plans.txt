@@ -1,0 +1,3 @@
+CONTENT PLANS 
+- Laravel CRUD 
+- Detection System Coding + Setup
