@@ -1,5 +1,6 @@
 CONTENT PLANS 
 - Laravel CRUD 
+* Update Data Automatically by TextView 
 - Insert Data in Laravel 
 - Garbage Detection System Coding + Setup
-
+* Emphasize Arduino
